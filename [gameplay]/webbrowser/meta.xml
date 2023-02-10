@@ -1,6 +1,6 @@
 <meta>
 	<info author="Jusonex, Audifire" type="misc" version="1.0.0" name="webbrowser"/>
-	<min_mta_version client="1.5.1"/>
+        <min_mta_version client="1.5.5-9.13846" />
 	<oop>true</oop>
 	<include resource="msgbox"/>
 
